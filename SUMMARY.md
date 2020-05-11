@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Environment flags](README.md)
+* [Introduction](README.md)
+* [Environment flags](environment-flags.md)
 * [Flags address](memory-tables.md)
 
 ## Instructions
