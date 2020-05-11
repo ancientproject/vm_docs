@@ -1,8 +1,12 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Environment flags](environment-flags.md)
-* [Flags address](memory-tables.md)
+* [Github](https://github.com/ancientproject/VM)
+
+## Information
+
+* [Environment flags](information/environment-flags.md)
+* [Flags address](information/memory-tables.md)
 
 ## Instructions
 
@@ -56,6 +60,4 @@
 * [.ckft](instructions/.ckft.md)
 * [.inv](instructions/.inv.md)
 * [.dif.t & .dif.f](instructions/.dif.t-and-.dif.f.md)
-* [Untitled](instructions/untitled-13.md)
-* [Untitled](instructions/untitled.md)
 
