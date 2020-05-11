@@ -8,7 +8,9 @@ description: 8bit Virtual Machine & Ancient Assembler-style language
 
 ![](https://user-images.githubusercontent.com/13326808/60311909-e71fa900-9961-11e9-96f0-bf4c4a45681c.png)
 
-> Ancient VM proof of concept of the language, toolkit, virtual machine and ecosystem A VM with 50+ instructions, SIMD Vector calculation, modularity, language and compiler, CLI tool and package register of modules and extensions
+> Ancient VM proof of concept of the language, toolkit, virtual machine and ecosystem A VM with 50+ instructions, SIMD Vector calculation, modularity, language and compiler, CLI tool and package register of modules and extension
+
+
 
 ## 📡 Installation
 
