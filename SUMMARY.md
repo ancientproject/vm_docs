@@ -16,6 +16,8 @@
   * [.div](instructions/math-operations/.div.md)
   * [.sub](instructions/math-operations/.sub.md)
   * [.add](instructions/math-operations/.add.md)
+  * [.pow](instructions/math-operations/.pow.md)
+  * [.sqrt](instructions/math-operations/.sqrt.md)
 * [Logical Operations](instructions/logical-operations/README.md)
   * [.ceq](instructions/logical-operations/.ceq.md)
   * [.neq](instructions/logical-operations/.neq.md)
