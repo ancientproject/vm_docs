@@ -15,6 +15,7 @@
   * [.brk.n](instructions/debug/.brk.n.md)
   * [.brk.s](instructions/debug/.brk.s.md)
 * [Jumpers](instructions/jumpers/README.md)
+  * [.jump.x](instructions/jumpers/.jump.x.md)
   * [.jump.p](instructions/jumpers/.jump.p.md)
   * [.jump.t](instructions/jumpers/.jump.t.md)
   * [.jump.y](instructions/jumpers/.jump.y.md)
