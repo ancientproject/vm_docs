@@ -12,6 +12,8 @@
   * [.brk.s](instructions/debug/.brk.s.md)
 * [Jumpers](instructions/jumpers.md)
 * [Math Operations](instructions/math-operations/README.md)
+  * [Float Math Operations](instructions/math-operations/float-math-operations/README.md)
+    * [.acosh](instructions/math-operations/float-math-operations/.acosh.md)
   * [.mul](instructions/math-operations/.mul.md)
   * [.div](instructions/math-operations/.div.md)
   * [.sub](instructions/math-operations/.sub.md)
