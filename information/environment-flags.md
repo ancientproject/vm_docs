@@ -21,3 +21,15 @@ _"1", "true", "on", "enable", "yes"_
 _"0", "false", "off", "disable", "no"_
 {% endhint %}
 
+## Additional Flags
+
+```erlang
+- RUNE_EMOJI_USE : 1\0    - using emoji in console output
+- RUNE_COLOR_USE : 1\0    - using coloring in console output
+- RUNE_NIER_USE  : 1\0    - using Nier formating test in console output
+```
+
+{% hint style="info" %}
+**Note:** _Coloring_, _Nier_, _Emoji_ on Windows work only in **Windows Terminal**
+{% endhint %}
+
