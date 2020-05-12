@@ -14,5 +14,10 @@
 - SKIP_WARNING     : 1\0    - skip display warning (default 0)
 ```
 
+{% hint style="info" %}
+**Note**: Valid value for env flags:
 
+_"1", "true", "on", "enable", "yes"_  
+_"0", "false", "off", "disable", "no"_
+{% endhint %}
 
