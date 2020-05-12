@@ -15,7 +15,7 @@ description: 8bit Virtual Machine & Ancient Assembler-style language
 ## 📡 Installation
 
 ```bash
-$ yarn global add @rune-temp/cli
+$ yarn global add @rune/cli
 $ rune install vm
 ```
 
