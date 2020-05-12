@@ -11,6 +11,7 @@
 - VM_WARMUP_DEV    : 1\0    - enable warm-up devices on plug-connect (default 1)
 - VM_SHUTDOWN_DEV  : 1\0    - enable shutdown devices on halting processor (default 1)
 - VM_SYM_ENCODING  : "utf8" - set encoding of debug symbols (default "IBM037")
+- SKIP_WARNING     : 1\0    - skip display warning (default 0)
 ```
 
 
