@@ -7,6 +7,8 @@
 
 * [Environment flags](information/environment-flags.md)
 * [Flags address](information/memory-tables.md)
+* [External Devices](information/external-devices.md)
+* [Halt VM](information/halt-vm.md)
 
 ## Instructions
 
