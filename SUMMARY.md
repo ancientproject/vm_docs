@@ -6,6 +6,7 @@
 ## Information
 
 * [Environment flags](information/environment-flags.md)
+* [Internal VM functions](information/internal-vm-functions.md)
 * [Flags address](information/memory-tables.md)
 * [External Devices](information/external-devices.md)
 * [Halt VM](information/halt-vm.md)
@@ -71,6 +72,6 @@
 * [.dec](instructions/.dec.md)
 * [.ckft](instructions/.ckft.md)
 * [.inv](instructions/.inv.md)
-* [..static.extern.call](instructions/..static.extern.call.md)
+* [...static.extern.call](instructions/..static.extern.call.md)
 * [.dif.t & .dif.f](instructions/.dif.t-and-.dif.f.md)
 
