@@ -71,5 +71,6 @@
 * [.dec](instructions/.dec.md)
 * [.ckft](instructions/.ckft.md)
 * [.inv](instructions/.inv.md)
+* [..static.extern.call](instructions/..static.extern.call.md)
 * [.dif.t & .dif.f](instructions/.dif.t-and-.dif.f.md)
 
