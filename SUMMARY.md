@@ -9,6 +9,7 @@
 * [Flags address](information/memory-tables.md)
 * [External Devices](information/external-devices.md)
 * [Halt VM](information/halt-vm.md)
+* [Float Mode](information/float-mode.md)
 * [VM Assembly structure](information/vm-assembly-structure/README.md)
   * [Assembly tag](information/vm-assembly-structure/assembly-tag.md)
 
