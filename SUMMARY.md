@@ -5,6 +5,7 @@
 
 ## Information
 
+* [Modules](information/modules.md)
 * [Environment flags](information/environment-flags.md)
 * [Internal VM functions](information/internal-vm-functions.md)
 * [Flags address](information/memory-tables.md)
