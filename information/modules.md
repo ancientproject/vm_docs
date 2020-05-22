@@ -6,7 +6,7 @@
 #use "./local-module.asm"
 ```
 
-#### Using global module:
+#### Using global module
 
 ```ocaml
 #use "global-module"
