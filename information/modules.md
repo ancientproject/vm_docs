@@ -14,6 +14,10 @@
 
 #### Use list modules
 
+{% hint style="warning" %}
+**Note:** Currently not implemented
+{% endhint %}
+
 ```ocaml
 #use ["m1", "m2", "m3"]
 ```
