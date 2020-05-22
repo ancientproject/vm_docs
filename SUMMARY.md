@@ -5,7 +5,6 @@
 
 ## Information
 
-* [Modules](information/modules.md)
 * [Environment flags](information/environment-flags.md)
 * [Internal VM functions](information/internal-vm-functions.md)
 * [Flags address](information/memory-tables.md)
@@ -14,6 +13,7 @@
 * [Float Mode](information/float-mode.md)
 * [VM Assembly structure](information/vm-assembly-structure/README.md)
   * [Assembly tag](information/vm-assembly-structure/assembly-tag.md)
+* [Modules](information/modules.md)
 
 ## Instructions
 
